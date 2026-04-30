@@ -103,7 +103,8 @@ SNS → Create topic → Email subscription → Confirmar email
 ```
 
 ![Print](screenshots/sns-email-confirmation.png)
-Exemplo da confirmação de e-mail.
+
+<sub>Exemplo da confirmação de e-mail.</sub>
 
 ---
 ## 2. Ativar CloudTrail
@@ -149,8 +150,9 @@ SecurityMetrics
 CloudWatch → Alarms → Create alarm→ Select metric (custom namespace)→ Condition: >= 1→ Action: enviar para SNS
 ```
 
-![[select-metric.png]]
-Exemplo selecionando a métrica do `RootLogin'
+![Print](screenshots/select-metric.png)
+
+Exemplo selecionando a métrica do `RootLogin`
 
 ---
 ## 5. Testar
