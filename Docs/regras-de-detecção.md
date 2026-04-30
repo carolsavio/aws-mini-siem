@@ -58,5 +58,3 @@ Falhas de autenticação no console
 
 ⚠️ Observação (importante):  
 Esse evento pode variar dependendo de MFA, tipo de erro, etc.
-
-![Print](screenshots/alarms.png)
