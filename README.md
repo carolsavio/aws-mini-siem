@@ -36,6 +36,7 @@ Atividade do Usuário
             ↓
    Alertas por Email
 ````
+[Ver notas de arquitetura](Docs/arquitetura-do-projeto.md)
 
 ---
 
@@ -147,7 +148,7 @@ Este log representa um login bem-sucedido no console da AWS utilizando a conta r
 
 [Ver análise completa - Login na conta Root](Docs/analise-de-log-root-login.md)
 
-[Ver análise completa - Falha de Login](docs/analise-de-log-falha-de-login.md)
+[Ver análise completa - Falha de Login](Docs/analise-de-log-falha-de-login.md)
 
 
 ----
@@ -182,7 +183,7 @@ O projeto gerou alertas automáticos com sucesso para quase todos os eventos rel
 - Serviços nativos AWS podem substituir SIEM básico em ambientes pequenos
 
 
-[Ver notas de lições](docs/licoes-aprendidas.md)
+[Ver notas de lições](Docs/licoes-aprendidas.md)
  
 
 
@@ -204,5 +205,5 @@ O projeto gerou alertas automáticos com sucesso para quase todos os eventos rel
 
 ## Autor
 
-Carol Savio
+Carol Savio - 
 Projeto de Portfólio em Cloud Security
