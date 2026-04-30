@@ -1,6 +1,10 @@
 
 # AWS Mini SIEM - Laboratório de Monitoramento em Segurança Cloud AWS
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-Protected-green?style=for-the-badge&logo=shield-check)
+
 ## Visão Geral
 
 Este projeto demonstra como construir uma solução leve no estilo SIEM utilizando serviços nativos da AWS dentro da Free Tier.
