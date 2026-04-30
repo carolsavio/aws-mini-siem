@@ -40,7 +40,7 @@ Atividade do Usuário
             ↓
    Alertas por Email
 ````
-[Ver notas de arquitetura](Docs/arquitetura-do-projeto.md)
+[Ver notas de arquitetura](arquitetura-do-projeto.md)
 
 ---
 
